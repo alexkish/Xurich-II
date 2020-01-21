@@ -1,0 +1,13 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/particle neutron
+
+/xe/gun/type Point
+/xe/gun/angtype direction
+/xe/gun/center 0. 0. 1100. mm
+/xe/gun/direction 0 -1 0
+
+/xe/gun/energy 2.5 MeV

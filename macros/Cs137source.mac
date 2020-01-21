@@ -1,0 +1,20 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+/xe/gun/type Volume
+/xe/gun/shape Sphere
+/xe/gun/radius 0.5 mm
+/xe/gun/angtype iso
+
+#center of the TPC at -59mm
+#outer can bottom at -190mm
+#source location -63mm
+
+/xe/gun/center 126 0 -63 mm
+
+/xe/gun/energy 0 keV
+/xe/gun/particle ion
+/xe/gun/ion 55 137 0 0
+

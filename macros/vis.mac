@@ -1,0 +1,12 @@
+
+/vis/open HepRepFile
+/vis/drawVolume
+/vis/viewer/flush
+
+/vis/open VRML2FILE
+/vis/drawVolume
+/vis/viewer/flush
+
+/vis/open DAWNFILE
+/vis/drawVolume
+/vis/viewer/flush
